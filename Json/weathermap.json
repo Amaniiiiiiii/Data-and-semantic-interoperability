@@ -1,0 +1,55 @@
+{
+    "rule": {
+        "description": "A weather forecast description for Saint-Etienne.",
+        "source": "https://openweathermap.org/",
+        "unit": {
+            "temperature": "c",
+            "speed": "m/s",
+            "pressure": "hPa",
+            "humidity": "%",
+            "visibility": "km"
+        }
+    },
+
+    "city": "Saint-Etienne",
+    "country": "France",
+    "forecast": [
+        {
+            "date": "02/12/2020",
+            "weather": "overcast clouds",
+            "temperature": {
+                "highest": 2,
+                "lowest": 0
+            },
+            "wind": {
+                "speed": 1.0,
+                "direction": "N"
+            },
+            "pressure": 1014,
+            "humidity": 100,
+            "visibility": 10.0,
+            "forecastForHours": [
+                {
+                    "time": "13:00",
+                    "weather": "overcast clouds",
+                    "temperature": 1,
+                    "humidity": 70
+                },
+                {
+                    "time": "14:00",
+                    "weather": "overcast clouds",
+                    "temperature": 1,
+                    "humidity": 70
+                },
+                {
+                    "time": "16:00",
+                    "weather": "overcast clouds",
+                    "temperature": 0,
+                    "humidity": 80
+                }
+            ]
+        }
+    ]
+}
+
+

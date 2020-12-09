@@ -1,0 +1,181 @@
+
+<!-- saved from url=(0042)http://ci.emse.fr/jobs/2018-developer.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Job: École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F/H </title>
+  
+  <script type="text/javascript" async="" src="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/analytics.js.téléchargement"></script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "JobPosting",
+  "datePosted": "2018-01-19",
+  "validThrough": "2018-03-15",
+  "employmentType": "CDD – 1 an",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "minValue": "26800",
+    "maxValue": "35700",
+    "currency": "EUR",
+    "description": "brut par an, selon le profile"
+  },
+  "salaryCurrency": "EUR",
+  "educationRequirements": "M2 ou doctorat",
+  "experienceRequirements": "tous niveaux d'expérience acceptés",
+  "skills": "Web application development using Java/J2EE Web application development using Python or familiarity with dynamic programming languages",
+  "title": "Ingénieur d’étude (M2) ou de recherche (doctorat)",
+  "description": "Dans le contexte d'une collaboration avec l'un des leaders français du domaine de l'énergie, nous recrutons un développeur Java (librairies Jersey, compilateur JavaCC, librairie RDF Jena) et Front-end (HTML, CSS, JavaScript) pour implémenter les prototypes et démonstrateurs de nos travaux de recherche dans le domaine du Web sémantique pour le Web des objets.\n\nIntitulé de mission :\n\nDéveloppement de prototypes et de démonstrateurs à base de technologies Web sémantique pour la spécification de règles comportementales à exécuter dans des agents logiciels distribués sur le Web.\n\nÉquipe : \n\nAu sein de l’Institut Fayol, centre de formation et de recherche de l’Ecole des Mines de Saint-Etienne, l’équipe Informatique et Systèmes Intelligents offre un cadre dynamique et motivant pour un développeur autonome, ouvert au monde de la recherche, et désireux de participer au développement d’outils qui permettront de démontrer des recherches innovantes pour le futur du Web et du Web des objets.\n\nContexte de recherche scientifique :\n\nLe Web et le Web des objets connecte une masse de services et objets hétérogènes, qui a le potentiel d’automatiser un grand nombre de tâches pour une variété d’applications de demain. Ces services et objets très hétérogènes doivent inter-opérer et se découvrir, se décrire, se solliciter, se comprendre, s’organiser, se réorganiser. Les technologies du Web et du Web sémantique permettent de décrire la connaissance sur chaque service et objet de manière uniforme. Un groupe de travail du W3C travaille actuellement à cette définition. Notre objectif de recherche est de combiner ces descriptions avec un langage de spécification de règles comportementales, qui permettra de déployer des règles de haut niveau d’abstraction dans des objets qui régiront leurs interactions. Le résultat de ces travaux pourra être présentés à l’international lors de conférences, ou lors des « PlugFest » du groupe de travail Web of Things du W3C.\n\nComment candidater :\n\nLe processus de recrutement se fera au fil de l’eau jusqu’à ce que le poste soit pourvu. Il consistera en un entretien et un test de compétences.\nPour candidater, envoyer CV, lettre de motivation, et toute autre information utile (ex relevé de notes d’un diplôme récent, lettres de recommandation), dans un unique fichier PDF portant votre nom à: Maxime Lefrançois <maxime.lefrancois@emse.fr>; Olivier Boissier <olivier.boissier@emse.fr> \n",
+  "hiringOrganization": "https://www.armines.net/fr",
+  "industry": "Recherche en Web sémantique pour le Web des objets.",
+  "image": "https://www.armines.net/sites/all/themes/armines/assets/images/armines-logo.png",
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Saint-Étienne",
+      "addressRegion": "42",
+      "postalCode": "42000",
+      "streetAddress": "152 cours Fauriel",
+      "addressCountry": "FR"
+    }
+  },
+  "occupationalCategory": "Développeur pour la recherche, Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F/H",
+  "qualifications": "Profil recherché:\n\nLe candidat sera en possession d’un M2 ou doctorat, tous les niveaux d'expérience acceptés. Il devra faire preuve d’une bonne capacité de compréhension et d’adaptation pour s’intégrer dans un environnement de recherche. Il saura être autonome et maîtriser les méthodologies de développement agile.  Il aura une bonne maîtrise de l’anglais (écrit et orale), et maîtrisera une bonne partie des technologies utilisées pour l’outil SPARQL-Generate: \n\n  - Compilateur JavaCC pour le langage SPARQL-Generate et le nouveau langage de règles</li>\n  - Librairie Apache Jena pour RDF exécuter les règles\n  - Librairie Java Jersey pour exposer et déclencher les règles\n  - Maven pour le moteur de production (ou migration vers Gradle)\n  - HTML, CSS, JavaScript (framework à choisir) pour la vitrine de démonstration\n  - Linux et Bash pour déployer sur le serveur\n  - Git pour le gestionnaire de version\n\nDes connaissances théoriques ou pratiques en Web sémantique sont un plus non négligeable, mais nous pourrons compléter sa formation sur certains points théoriques ou certaines des technologies si besoin.",
+  "responsibilities": "Design and write specifications for tools for in-house customers Build tools according to specifications"
+}
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/bootstrap.css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/slick.css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/magnific-popup.css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/style.css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/global.css">
+  <link rel="stylesheet" type="text/css" media="all" href="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/font-awesome.css">
+
+
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Job: École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F/H">
+  <meta property="og:description" content="Dans le contexte d&#39;une collaboration avec l&#39;un des leaders français du domaine de l&#39;énergie, nous recrutons un développeur Java (librairies Jersey, compilateur JavaCC, librairie RDF Jena) et Front-end (HTML, CSS, JavaScript) pour implémenter les prototypes et démonstrateurs de nos travaux de recherche dans le domaine du Web sémantique pour le Web des objets.">
+  <meta property="og:url" content="http://ci.emse.fr/jobs/2018-developer.html">
+  <meta property="og:site_name" content="École des Mines de Saint-Étienne">
+  <meta property="article:publisher" content="https://www.armines.net/fr">
+  <meta property="og:image" content="https://www.armines.net/sites/all/themes/armines/assets/images/armines-logo.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="Dans le contexte d&#39;une collaboration avec l&#39;un des leaders français du domaine de l&#39;énergie, nous recrutons un développeur Java (librairies Jersey, compilateur JavaCC, librairie RDF Jena) et Front-end (HTML, CSS, JavaScript) pour implémenter les prototypes et démonstrateurs de nos travaux de recherche dans le domaine du Web sémantique pour le Web des objets.">
+  <meta name="twitter:title" content="Job: École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F/H">
+  <meta name="twitter:site" content="@MINES_StEtienne">
+  <meta name="twitter:image" content="https://www.armines.net/sites/all/themes/armines/assets/images/armines-logo.png">
+  <meta name="twitter:creator" content="@Max_Lefrancois">
+  <style type="text/css">
+h1 h2 {
+  font-family: "Klima", "Open Sans", Helvetica, Arial, sans-serif;
+  color: #333333;
+}
+h1 {
+  display: block;
+}
+.container {
+    background: white;
+}
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-size: 1.4rem;
+    line-height: 170%;
+    color: #333333;
+    background: #e5e5e5;
+}
+p {
+    margin-bottom: 20px;
+    margin: 0 0 11px;
+    display: block;
+    font-size: 10px;
+    font-size: 1.4rem;
+    line-height: 180%;
+    padding-left: 0;
+    padding-right: 30px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74855518-11');
+</script>
+
+</head>
+<body about="http://ci.emse.fr/jobs/2018-developer.html">
+  <div class="container">
+    <div class="col-8">
+    <a href="https://www.armines.net/fr"><img src="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/armines-logo.png"></a>
+    <a href="http://www.mines-stetienne.fr/lecole/"><img src="./Job_ École des Mines, développeur Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F_H_files/logo.png"></a>
+    <h1>Développeur pour la recherche, Java (Jersey, JavaCC, RDF avec Jena), et Front-end, F/H </h1>
+    <strong>ARMINES</strong>
+    <ul class="synthesis">
+      <li>CDD – 1 an</li>
+      <li>Salaire (k€ brut par an) selon le profil: de 26.8 k€ à 35.7k€</li>
+      <li>Prise de poste : 2 mois après acceptation sur le poste</li>
+      <li>Expérience: M2 ou doctorat, tous niveaux d'expérience acceptés</li>
+      <li>Statut du poste : Ingénieur d’étude (M2) ou de recherche (doctorat)</li>
+      <li>Zone : Saint-Étienne</li>
+      <li>Secteur d’activité du poste : Recherche en Web sémantique pour le Web des objets. </li>
+    </ul>
+
+  <p>Dans le contexte d'une collaboration avec l'un des leaders français du domaine de l'énergie, nous recrutons un développeur Java (librairies Jersey, compilateur JavaCC, librairie RDF Jena) et Front-end (HTML, CSS, JavaScript) pour implémenter les prototypes et démonstrateurs de nos travaux de recherche dans le domaine du Web sémantique pour le Web des objets.</p>
+
+  <h2>Intitulé de mission</h2>
+
+  <p>Développement de prototypes et de démonstrateurs à base de technologies Web sémantique pour la spécification de règles comportementales à exécuter dans des agents logiciels distribués sur le Web.</p>
+
+  <h2>Équipe</h2>
+
+  <p>Au sein de l’Institut Fayol, centre de formation et de recherche de l’Ecole des Mines de Saint-Etienne, l’équipe Informatique et Systèmes Intelligents offre un cadre dynamique et motivant pour un développeur autonome, ouvert au monde de la recherche, et désireux de participer au développement d’outils qui permettront de démontrer des recherches innovantes pour le futur du Web et du Web des objets.</p>
+
+  <h2>Contexte de recherche scientifique</h2>
+
+  <p>Le Web et le Web des objets connecte une masse de services et objets hétérogènes, qui a le potentiel d’automatiser un grand nombre de tâches pour une variété d’applications de demain. Ces services et objets très hétérogènes doivent inter-opérer et se découvrir, se décrire, se solliciter, se comprendre, s’organiser, se réorganiser. Les technologies du Web et du Web sémantique permettent de décrire la connaissance sur chaque service et objet de manière uniforme. Un groupe de travail du W3C travaille actuellement à cette définition. Notre objectif de recherche est de combiner ces descriptions avec un langage de spécification de règles comportementales, qui permettra de déployer des règles de haut niveau d’abstraction dans des objets qui régiront leurs interactions. Le résultat de ces travaux pourra être présentés à l’international lors de conférences, ou lors des « PlugFest » du groupe de travail Web of Things du W3C.</p>
+
+  <h2>Missions de développement</h2>
+
+  <p>L'ingénieur de recherche embauché sur ce projet pour ARMINES contribuera au développement de prototypes et de démonstrateurs Web pour des travaux de recherche de l’équipe. La mission à court terme consistera à implémenter des améliorations pour l’outil SPARQL-Generate [1] et son site Web de démonstration [2]. Puis il s’agira d’entamer un processus de développement agile pour implémenter sur cet outil les spécifications définies avec les chercheurs de l’équipe. Enfin, un site Web « vitrine » sera développé à l’instar de celui de SPARQL-Generate, qui permettra de rédiger des règles comportementales avec une extension de CodeMirror, et de simuler leur exécution. </p>
+
+  <ul class="references">
+    <li>[1] – SPARQL-Generate repo - http://github.com/thesmartenergy/sparql-generate/</li>
+    <li>[2] – SPARQL-Generate site - https://w3id.org/sparql-generate/</li>
+  </ul>
+
+  <h2>Profil recherché</h2>
+
+  <p>Le candidat sera en possession d’un M2 ou doctorat, tous les niveaux d'expérience acceptés. Il devra faire preuve d’une bonne capacité de compréhension et d’adaptation pour s’intégrer dans un environnement de recherche. Il saura être autonome et maîtriser les méthodologies de développement agile.  Il aura une bonne maîtrise de l’anglais (écrit et orale), et maîtrisera une bonne partie des technologies utilisées pour l’outil SPARQL-Generate: </p>
+
+  <ul>
+    <li>Compilateur JavaCC pour le langage SPARQL-Generate et le nouveau langage de règles</li>
+    <li>Librairie Apache Jena pour RDF pour exécuter les règles </li>
+    <li>Librairie Java Jersey pour exposer et déclencher les règles</li>
+    <li>Maven pour le moteur de production (ou migration vers Gradle)</li>
+    <li>HTML, CSS, JavaScript (framework à choisir) pour la vitrine de démonstration</li>
+    <li>Linux et Bash pour déployer sur le serveur </li>
+    <li>Git pour le gestionnaire de version</li>
+  </ul>
+
+  <p>Des connaissances théoriques ou pratiques en Web sémantique sont un plus non négligeable, mais nous pourrons compléter sa formation sur certains points théoriques ou certaines des technologies si besoin.</p>
+
+  <h2>Comment candidater</h2>
+
+  <p>Le processus de recrutement se fera au fil de l’eau jusqu’à ce que le poste soit pourvu. Il consistera en un entretien et un test de compétences.
+  Pour candidater, envoyer CV, lettre de motivation, et toute autre information utile (ex relevé de notes d’un diplôme récent, lettres de recommandation), dans un unique fichier PDF portant votre nom à: <a href="http://ci.emse.fr/jobs/maxime.lefrancois@emse.fr">Maxime Lefrançois &lt;maxime.lefrancois@emse.fr&gt;</a>; <a href="mailto:olivier.boissier@emse.fr">Olivier Boissier &lt;olivier.boissier@emse.fr&gt;</a></p>
+
+</div></div>
+
+
+</body></html>

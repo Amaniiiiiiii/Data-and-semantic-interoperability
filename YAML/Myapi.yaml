@@ -1,0 +1,133 @@
+openapi: 3.0.0
+info:
+  title: My API
+  description: An api for Fayol.
+  version: 0.1.9
+servers:
+  - url: http//api.example.org/
+
+paths:
+  /storeys:
+    get:
+      summary: Returns a list of users.
+      description: Returns the resource associated to the Fayol building to get the list of storeys.
+      parameters:
+        - in: query
+          name: size
+          required: false
+          schema:
+            type: integer
+          description: Page size
+        - in: query
+          name: page
+          required: false
+          schema:
+            type: integer
+         description: Page number
+      responses:
+        '200':    # status code
+          description: Return a list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+        '401':
+          description: Error
+
+  /storeys/{storeyID}/rooms:
+    get:
+      summary: Return a list of rooms in the storey.
+      parameters:
+        - in: path
+          name: storeyID
+          required: true
+          schema:
+            type: integer
+          description: The storey's ID
+        - in: query
+          name: size
+          required: false
+          schema:
+            type: integer
+          description: Page's size
+        - in: query
+          name: page
+          required: false
+          schema:
+            type: integer
+          description: Page's number
+      responses:
+        '200':
+          description: Return a list of the storeys.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+            application/xml:
+              schema:
+                type: array
+                items:
+                  type: string
+        '401':
+          description: Error
+
+  /storeys/{storeyID}/rooms/{roomID}/:
+    get:
+      summary: Return a set of data of the given room.
+      parameters:
+        - in: path
+          name: storeyID
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The storey ID
+        - in: path
+          name: roomID
+          required: true
+          schema:
+            type: integer
+          description: The room ID
+      responses:
+        '200':
+          description: A set of data of the given room.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+            application/xml:
+              schema:
+                type: array
+                items:
+                  type: string
+
+        '401':
+          description: Error
+
+    put:
+      summary: Update the devices' status.
+      parameters:
+        - in: path
+          name: storeyID
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The storey ID
+        - in: path
+          name: roomID
+          required: true
+          schema:
+            type: integer
+          description: The room ID
+      responses:
+        '204':
+          description: Updated.
+        '401':
+          description: Error.

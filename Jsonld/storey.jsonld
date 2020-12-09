@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Room",
+  "accommodationCategory": "Enseignement",
+  "floorLevel": "No.2",
+  "numberOfRooms": "2",
+  "petsAllowed": "TRUE"
+}
+

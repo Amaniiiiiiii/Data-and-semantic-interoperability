@@ -1,0 +1,72 @@
+<Agenda>
+    <Cours>
+        <Titre>MASTER CYBER-PHYSICAL SOCIAL SYSTEMS-M1 UML-Multi-Agent Programming</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-29</Date>
+        <Début>10:15:00</Début>
+        <Fin>11:45:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>MASTER CYBER-PHYSICAL SOCIAL SYSTEMS-M1 UML-Multi-Agent Programming</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-29</Date>
+        <Début>08:30:00</Début>
+        <Fin>10:00:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>BIG DATA- Données massives 2</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-28</Date>
+        <Début>10:15:00</Début>
+        <Fin>12:15:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>BIG DATA- Données massives 2</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-28</Date>
+        <Début>08:00:00</Début>
+        <Fin>10:00:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>BIG DATA- Données massives 2</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-21</Date>
+        <Début>10:15:00</Début>
+        <Fin>12:15:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>BIG DATA- Données massives 2</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-21</Date>
+        <Début>08:00:00</Début>
+        <Fin>10:00:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>INGENIERIE ET INTEROPERABILITE DES SYSTEMES INFORMATIQUES-Socle technique de développement logiciel</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-11</Date>
+        <Début>10:15:00</Début>
+        <Fin>11:45:00</Fin>
+    </Cours>
+    <Cours>
+        <Titre>INGENIERIE ET INTEROPERABILITE DES SYSTEMES INFORMATIQUES-Socle technique de développement logiciel</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-11</Date>
+        <Début>08:30:00</Début>
+        <Fin>10:00:00</Fin>
+    </Cours>
+    <TD>
+        <Titre>ICM B1-Formalisation pour la programmation</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-09</Date>
+        <Début>14:45:00</Début>
+        <Fin>16:45:00</Fin>
+    </TD>
+    <Cours>
+        <Titre>ICM-Formalisation pour la programmation</Titre>
+        <Statut>Actif</Statut>
+        <Date>2020-09-09</Date>
+        <Début>13:30:00</Début>
+        <Fin>14:30:00</Fin>
+    </Cours>
+</Agenda>

@@ -1,0 +1,43 @@
+{
+  "@context":
+
+  {
+    "name": "http://schema.org/name",
+
+    "currentTemperature":{
+        "@id": "https://schema.org",
+        "@type": "https://schema.org/float"
+    },
+
+    "window": "https://schema.org",
+    "number":{
+        "@id":"https://schema.org",
+        "@type":"https://schema.org/Integer"
+    },
+
+    "status":{
+        "@id":"https://schema.org",
+        "@type":"https://schema.org/Boolean"
+    },
+
+    "heater": "https://schema.org",
+
+    "number":{
+        "@id":"https://schema.org",
+        "@type":"https://schema.org/Integer"
+    },
+
+    "status":{
+        "@id":"https://schema.org",
+        "@type":"https://schema.org/Boolean"
+    }
+
+  },
+  "name": "room S2.21",
+  "currentTemperature": "18.1",
+  "window":{
+    "number":"1",
+    "status":"TRUE"
+  }
+}
+
